@@ -2,4 +2,4 @@ https://user-images.githubusercontent.com/107848793/233676418-8cd82134-bdf0-4187
 
 
 # Login Form  
-Simple Html and css login form with a few css styled animation. You can click the play button to have a glimpse of the linear animation!  
+Simple Html and css login form with a few css styled animation. You can click the play &#9654; button to have a glimpse of the linear animation!  
