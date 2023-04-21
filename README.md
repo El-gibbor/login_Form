@@ -1,3 +1,5 @@
-![Screenshot 2023-04-21 185703](https://user-images.githubusercontent.com/107848793/233668685-67acfc65-252a-45b4-9d31-da7043230426.png)
+https://user-images.githubusercontent.com/107848793/233676418-8cd82134-bdf0-4187-bbc6-14f584c511ee.mp4
 
-# Login Form
+
+# Login Form  
+Simple Html and css login form with a few css styled animation. You can click the play button to have a glimpse of the linear animation!  
